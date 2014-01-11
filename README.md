@@ -1,4 +1,6 @@
-blog
+My blog based on github issue.
 ====
 
-Github issue based blog.
+总结、传播、分享
+
+Thanks GitHub!
